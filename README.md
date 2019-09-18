@@ -4,6 +4,6 @@
 
 Nested Loops with Colors:
 
-![](https://github.com/BaileighD/Dabdoub_Baileigh_ART2210/testCoding/GitHubHW/Part3/GitHubPracticeloop.html)
+[Git Hub Practice loop](https://github.com/BaileighD/Dabdoub_Baileigh_ART2210/testCoding/GitHubHW/Part3/GitHubPracticeloop.html)
 
 file:///Users/baileighdabdoub/Desktop/GitHub/Dabdoub_Baileigh_ART2210/testCoding/GitHubHW/Part3/GitHubPracticeloop.html
