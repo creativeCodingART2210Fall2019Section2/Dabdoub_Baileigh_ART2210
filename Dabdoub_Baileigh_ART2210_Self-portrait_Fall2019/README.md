@@ -2,7 +2,7 @@
 
 Project 1: Abstract Portrait
 
-[Abstract Portrait](https://baileighd.github.io/Dabdoub_Baileigh_ART2210/testCoding/Dabdoub_Baileigh_ART2210_Self-portrait_Fall2019/AbstractFace.html)
+[Abstract Portrait](https://baileighd.github.io/Dabdoub_Baileigh_ART2210/Dabdoub_Baileigh_ART2210_Self-portrait_Fall2019/AbstractFace.html
 
 ##Baileigh Dabdoub
 ##Yang
