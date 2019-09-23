@@ -4,6 +4,7 @@ Project 1: Abstract Portrait
 
 [Abstract Portrait](https://baileighd.github.io/Dabdoub_Baileigh_ART2210/Dabdoub_Baileigh_ART2210_Self-portrait_Fall2019/AbstractFace.html)
 
+![Inspiration](/Users/baileighdabdoub/Desktop/GitHub/Dabdoub_Baileigh_ART2210/Dabdoub_Baileigh_ART2210_Self-portrait_Fall2019)
 
 ##Baileigh Dabdoub
 ##Yang
