@@ -2,8 +2,5 @@
 
 
 
-Nested Loops with Colors:
-
-[Git Hub Practice loop](https://github.com/BaileighD/Dabdoub_Baileigh_ART2210/testCoding/GitHubHW/Part3/GitHubPracticeloop.html)
-
-file:///Users/baileighdabdoub/Desktop/GitHub/Dabdoub_Baileigh_ART2210/testCoding/GitHubHW/Part3/GitHubPracticeloop.html
+CLOCK PROJECT
+[Space! The Final Frontier](https://baileighd.github.io/Dabdoub_Baileigh_ART2210/Dabdoub_Baileigh_ART2210_Clock_Fall2019/Clock.html)
