@@ -7,10 +7,10 @@ function setup(){
     createCanvas(windowWidth,windowHeight);
 }
  function draw(){
-Image(img,windowWidth/6,windowHeight/6, windowWidth/2, windowHeight/2);
+image(img,windowWidth/6,windowHeight/6, windowWidth/2, windowHeight/2);
 
  }
 
  function windowResized(){
-     resizedCanvas(windowWidth,windowHeight);
+     resizeCanvas(windowWidth,windowHeight);
  }
