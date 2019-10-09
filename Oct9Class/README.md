@@ -1,5 +1,5 @@
 #Dabdoub_Baileigh_ART2210
 
-HIP! HIP! ARRAY!
+Arrays
 
-[Testing Link](https://baileighd.github.io/Dabdoub_Baileigh_ART2210/testCoding/GitHubPractice.html)
+[HIP! HIP! ARRAY!](https://baileighd.github.io/Dabdoub_Baileigh_ART2210/Oct9Class/Oct9Class.html)
